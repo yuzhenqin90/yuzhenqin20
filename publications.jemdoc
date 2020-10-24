@@ -1,0 +1,22 @@
+# jemdoc: menu{MENU}{publications.html}
+=Publications
+
+~~~
+{Journal Papers}
+. *Yuzhen Qin*, Ming Cao, Brian DO Anderson, Danielle S Bassett, Fabio Pasqualetti, "[https://ieeexplore.ieee.org/abstract/document/9127488 Mediated Remote Synchronization of Kuramoto-Sakaguchi Oscillators: The Number of Mediators Matters"], /*IEEE Control Systems Letters*/, 2020, 5(3): 767-772.
+. *Yuzhen Qin*, Yu Kawano, Brian D.O. Anderson, Ming Cao, "[https://arxiv.org/abs/1910.07465 Partial Exponential Stability Analysis of Slow-fast Systems via Periodic Averaging]", submitted to /*IEEE Transactions on Automatic Control*/.
+. Mengbin Ye, *Yuzhen Qin*, Alain Govaert, Brian DO Anderson, Ming Cao, "[https://www.sciencedirect.com/science/article/pii/S0005109819302870 An influence network model to study discrepancies in expressed and private opinions]", /*Automatica*/, 2019, 107: 371-381.
+. *Yuzhen Qin*, Yu Kawano, Ming Cao, "[https://arxiv.org/abs/1906.01065 Partial phase cohesiveness in networks of Kuramoto oscillator networks]", submitted to /*IEEE Transactions on Automatic Control*/. 
+. *Yuzhen Qin*, Brian D.O. Anderson, Ming Cao, "[https://ieeexplore.ieee.org/abstract/document/8691522 Lyapunov Criterion for Stochastic Systems and Its Applications in Distributed Computation]", /*IEEE Transactions on Automatic Control*/, 2019, 65(2): 546-560.
+~~~
+
+
+~~~
+{Conference Papers}
+. *Yuzhen Qin*, Yu Kawano, Ming Cao, "[https://ieeexplore.ieee.org/abstract/document/8619257 Stability of Remote Synchronization in Star Networks of Kuramoto Oscillators]", 57th IEEE Conference on Decision and Control, Miami Beach, FL, USA, 2018.
+. Alain Govaert, *Yuzhen Qin*, Ming Cao, "[https://ieeexplore.ieee.org/abstract/document/8550361 Necessary and sufficient conditions for the existence of cycles in evolutionary dynamics of two-strategy games on networks]", /European Control Conference (in cooperation with IFAC)/, Limassol, Cyprus, 2018.
+. *Yuzhen Qin*, Yu Kawano, Ming Cao, "[https://ieeexplore.ieee.org/abstract/document/8550323 Partial phase cohesiveness in networks of communitinized Kuramoto oscillators]",  /European Control Conference (in cooperation with IFAC)/, Limassol, Cyprus, 2018.
+. "Yuzhen Qin", Ming Cao, Brian DO Anderson, "[https://www.sciencedirect.com/science/article/pii/S2405896317308704 Asynchronous agreement through distributed coordination algorithms associated with periodic matrices]", the 20th IFAC World Congress, Toulouse, France, 2017.
+~~~
+
+See also [https://scholar.google.nl/citations?user=G7ok8mYAAAAJ&hl=en My Google Scholar].
