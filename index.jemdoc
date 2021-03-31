@@ -21,16 +21,16 @@ I received the B. E. degree and M. E. degree in Control Engineering from Hohai U
 
 == Research Interests
 My research interests include 
+- Machine Learning
 - Modeling of Brain Networks
-- Synchronization
-- Nonlinear systems
+- Synchronization in Nolinear Systems
 - Stochastic systems
-- Social Networks
 
 == News
 
 ~~~
 {2021}
+- March: we submitted a paper entitled "Representation Learning for Stochastic Sequential Linear Bandits" to CDC 2021.
 - February: Our paper entitled "[https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9362156 Partial Phase Cohesiveness in Networks of Networks of Kuramoto Oscillators]", now available in early access of [https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9362156 *IEEE Transactions on Automatic Control*].
 ~~~
 
