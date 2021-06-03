@@ -1,0 +1,10 @@
+# jemdoc: menu{MENU}{publications.html}
+# {lab.jpg}{alt text}{504}{378}
+=About me
+
+I was born and raised in Chongqing, southwest China.
+
+~~~
+{}{img_left}{lab.jpg}{alt text}{504}{378}{https://yuzhenqin.github.io/personal_website/}\n
+Recent Lab gathering after one year
+~~~
