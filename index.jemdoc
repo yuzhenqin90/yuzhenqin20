@@ -21,19 +21,20 @@ I received the B. E. degree and M. E. degree in Control Engineering from Hohai U
 
 == Research Interests
 My research interests include 
-- Machine Learning
-- Modeling of Brain Networks
-- Synchronization in Nolinear Systems
+- Reinforcement Learning with theoretical guarantee
+- Modeling of brain behaviors
+- Synchronization in oscillator networks
 - Stochastic systems
 
 == News
 
 ~~~
 {2021}
-- May: we submitted a paper to NeurIPS'21, which is now under anonymous review.
-- May: our paper entitled "[https://arxiv.org/pdf/2012.04217.pdf Phase-amplitude coupling in neuronal oscillator networks]" has beed accepted by Physical Review Research. 
-- March: we submitted a paper entitled "Representation Learning for Stochastic Sequential Linear Bandits" to CDC 2021.
-- February: Our paper entitled "[https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9362156 Partial Phase Cohesiveness in Networks of Networks of Kuramoto Oscillators]", now available in early access of [https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9362156 *IEEE Transactions on Automatic Control*].
+- July: I presented a poster on our work "Non-stationary representation learning in sequential multi-armed bandits" at *ICML 2021 Workshop on Reinforcement Learning Theory*. 
+- May: we submitted a paper to *NeurIPS'21*, which is now under anonymous review.
+- May: our paper entitled "[https://arxiv.org/pdf/2012.04217.pdf Phase-amplitude coupling in neuronal oscillator networks]" has beed accepted by *Physical Review Research*. 
+- March: we submitted a paper entitled "Representation Learning for Stochastic Sequential Linear Bandits" to *CDC 2021*.
+- February: Our paper entitled "[https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9362156 Partial Phase Cohesiveness in Networks of Networks of Kuramoto Oscillators]", now available in early access of *IEEE Transactions on Automatic Control*.
 ~~~
 
 ~~~
