@@ -29,18 +29,17 @@ My research interests include
 == News
 
 ~~~
+{2022}
+- January: We submitted our paper entitled "Non-Stationary Representation Learning in Sequential Linear Bandits" to the IEEE Open Journal of Control Systems.
+~~~
+
+
+~~~
 {2021}
-- Septermber: Our paper entitled "Partial exponential stability analysis of slow-fast systems via periodic averaging" has been accepted by *IEEE Transactions on Automatic Control*.
+- October: We submitted our paper entitled "Representation Learning for Context-Dependent Decision-Making" to the 2022 American Control Conference (ACC). 
+- Septermber: Our paper entitled "[https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9556592 Partial exponential stability analysis of slow-fast systems via periodic averaging]" has been accepted by *IEEE Transactions on Automatic Control*.
 - July: I presented a poster on our work "[https://lyang36.github.io/icml2021_rltheory/camera_ready/86.pdf Non-stationary representation learning in sequential multi-armed bandits]" at *ICML 2021 Workshop on Reinforcement Learning Theory*. 
-- May: we submitted a paper to *NeurIPS'21*, which is now under anonymous review.
 - May: our paper entitled "[https://arxiv.org/pdf/2012.04217.pdf Phase-amplitude coupling in neuronal oscillator networks]" has beed accepted by *Physical Review Research*. 
-- March: we submitted a paper entitled "Representation Learning for Stochastic Sequential Linear Bandits" to *CDC 2021*.
 - February: Our paper entitled "[https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9362156 Partial Phase Cohesiveness in Networks of Networks of Kuramoto Oscillators]", now available in early access of *IEEE Transactions on Automatic Control*.
 ~~~
 
-~~~
-{2020}
-- June: Our paper entitled "[https://ieeexplore.ieee.org/abstract/document/9127488 *Mediated Remote Synchronization of Kuramoto-Sakaguchi Oscillators: The Number of Mediators Matters*]" has been published by [https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7782633 *IEEE Control Systems Letters*].
- 
-- February: Our paper entitled "[https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8691522 *Lyapunov Criterion for Stochastic Systems and Its Applications in Distributed Computation*]" has been published by [https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9 *IEEE Transactions on Automatic Control*].
-~~~
