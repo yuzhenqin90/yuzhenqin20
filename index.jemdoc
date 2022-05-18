@@ -20,15 +20,19 @@ Email: yuzhenq(at)ucr(dot)edu \n
 ~~~
 
 == Short Biography
-I received the B. E. degree and M. E. degree in Control Engineering from Hohai University and Wuhan University, China, in 2012 and 2015, respectively. I obtained my Ph.D. degree from University of Groningen in December 2019, advised by [https://www.rug.nl/staff/m.cao/ Prof. Ming Cao]. Since January, 2020, I have been a postdoctoral researcher at the University of California, Riverside, advised by [http://www.fabiopas.it/index.html Prof. Fabio Pasqualetti].
+
+- Since Jan. 2020, I have been a postdoctoral researcher at the University of California, Riverside, advised by [http://www.fabiopas.it/index.html Prof. Fabio Pasqualetti].
+
+- In Dec. 2019, I obtained my Ph.D. degree from University of Groningen. My advisor was [https://www.rug.nl/staff/m.cao/ Prof. Ming Cao]. 
+- Before that, I did my master in Wuhan University, China. 
 
 
 
 
 == Research Interests
-My research interests include 
+My research interests include
+- Analysis and control in brain networks 
 - Reinforcement Learning with theoretical guarantee
-- Analysis and control of brain activity
 - Synchronization in oscillator networks
 - Stochastic systems
 
@@ -36,10 +40,11 @@ My research interests include
 
 ~~~
 {2022}
+- May: Our paper entitled "[https://arxiv.org/abs/2201.04805 Non-Stationary Representation Learning in Sequential Linear Bandits]" has been accepted by the IEEE Open Journal of Control Systems.
 - March: We submitted two papers to the 2022 Conference on Decision and Control (CDC):
 -- "Flexible Information Propagation in Oscillator Networks";
 -- "[https://arxiv.org/abs/2204.00678 Vibrational Control of Cluster Synchronization: Connections with Deep Brain Stimulation]".
-- January: Our paper entitled "Representation Learning for Context-Dependent Decision-Making" has been accepted by the 2022 American Control Conference (ACC). 
+- January: Our paper entitled "[https://arxiv.org/abs/2205.05820 Representation Learning for Context-Dependent Decision-Making]" has been accepted by the 2022 American Control Conference (ACC). 
 - January: We submitted our paper entitled "[https://arxiv.org/abs/2201.04805 Non-Stationary Representation Learning in Sequential Linear Bandits]" to the IEEE Open Journal of Control Systems.
 ~~~
 
