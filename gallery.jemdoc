@@ -1,0 +1,35 @@
+# jemdoc: menu{MENU}{gallery.html}
+=Gallery
+
+~~~
+{}{img_left}{.\photos/lab_gathering1.png}{}{480}{360}
+
+Lab gathering at Irvine, CA (May, 2021)
+~~~
+
+~~~
+{}{img_left}{.\photos/surf.jpg}{}{480}{360}\n
+Surfing at Oceanside, CA (Oct, 2021)
+~~~
+
+~~~
+{}{img_left}{.\photos/red_rock.jpg}{}{480}{360}\n
+Red Rock Canyon, NV (Dec, 2021)
+~~~
+
+~~~
+{}{img_left}{.\photos/joshua.jpg}{}{480}{360}\n
+Joshua, CA (Feb, 2022)
+~~~
+
+~~~
+{}{img_left}{.\photos/camping_sequoia.jpg}{}{480}{360}\n
+Camping in Sequoia, CA (May, 2022)
+~~~
+
+
+~~~
+{}{img_left}{.\photos/alain.jpg}{}{480}{360}\n
+Running into an old friend at ACC 2022, Atlanta, GA (Jun, 2022)
+~~~
+

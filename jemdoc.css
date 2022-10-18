@@ -11,6 +11,7 @@ body {
 	font-family: Georgia, serif;
 	padding-bottom: 8px;
 	margin: 0;
+	max-width: 1200px;
 }
 
 #layout-menu {
@@ -209,9 +210,11 @@ li ul, li ol {
 	margin-top: -0.3em;
 }
 
-ol {
+ol{
 	list-style-position: outside;
 	list-style-type: decimal;
+	display: flex;
+  	flex-direction: column-reverse;
 }
 
 li p, dd p {

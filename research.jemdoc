@@ -1,0 +1,8 @@
+# jemdoc: menu{MENU}{research.html}
+=Research
+
+== Research Summary
+
+~~~
+{}{img_left}{.\photos/research_summary.png}{alt text}{80%}{}
+~~~
