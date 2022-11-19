@@ -3,13 +3,14 @@
 
 ~~~
 {Under Review}
-. O. Portoles, *Y. Qin*, J. Hadida, M. Woolrich, M. Cao, M. van Vugt, "Fluctuations of local synchrony lead to resting-state alpha-band-envelope connectivity in a parsimonious large-scale brain model", submitted to /*PLOS ONE*/. \[[https://www.biorxiv.org/content/10.1101/2021.01.20.427443v1.full.pdf BioRxiv]\]
-. *Y. Qin*, Y. Li, F. Pasqualetti, M. Fazel, S. Oymak, "Stochastic Contextual Bandits with Long Horizon Rewards", submitted to AAAI conference 2023.
+
 . A. M. Nobili, *Y. Qin*, C. A. Avizzano, D. S. Bassett, and F. Pasqualetti, "Vibrational Stabilization of Complex Network Systems", submitted to ACC 2023.
 ~~~
 
 ~~~
 {Journal Papers}
+
+
 
 . *Y. Qin*, B. D.O. Anderson, M. Cao, "Lyapunov criterion for stochastic systems and its applications in Distributed Computation", /*IEEE Transactions on Automatic Control*/, 2019, 65(2): 546-560. \[[https://ieeexplore.ieee.org/abstract/document/8691522 Online]\]
 
@@ -27,11 +28,14 @@
 
 . *Y. Qin*, T. Menara, S. Oymak, S. Ching, and F. Pasqualetti, "Non-Stationary Representation Learning in Sequential Linear Bandits",  /*the IEEE Open Journal of Control Systems*/, vol. 1, pp. 41-56, 2022. \[[https://ieeexplore.ieee.org/document/9783063 Online]\]
 
+. O. Portoles, *Y. Qin*, J. Hadida, M. Woolrich, M. Cao, M. van Vugt, "Fluctuations of local synchrony lead to resting-state alpha-band-envelope connectivity in a parsimonious large-scale brain model", /*PLOS ONE*/, 17(10), e0275819, 2022. \[[https://www.biorxiv.org/content/10.1101/2021.01.20.427443v1.full.pdf BioRxiv]\]
 ~~~
 
 
 ~~~
 {Conference Papers}
+
+
 
 . *Y. Qin*, M. Cao, B. D.O. Anderson, "Asynchronous agreement through distributed coordination algorithms associated with periodic matrices", the 20th IFAC World Congress, Toulouse, France, 2017. \[[https://www.sciencedirect.com/science/article/pii/S2405896317308704  Online]\]
 
@@ -46,6 +50,8 @@
 . *Y. Qin*, D. S. Bassett, F. Pasqualetti, "Vibrational Control of Cluster Synchronization: Connections with Deep Brain Stimulation", the 61th IEEE Conference on Decision and Control, 2022,  to appear. \[[https://arxiv.org/abs/2204.00678 ArXiv]\]
 
 . *Y. Qin*, D. S. Bassett, F. Pasqualetti, "Flexible Information Propagation in Oscillator Networks", the 61th IEEE Conference on Decision and Control, 2022, to appear. 
+
+. *Y. Qin*, Y. Li, F. Pasqualetti, M. Fazel, S. Oymak, "Stochastic Contextual Bandits with Long Horizon Rewards", the AAAI Conference on Artificial Intelligence (AAAI), 2023, accepted. *(Acceptant rate: 19.6%)*
 ~~~
 
 See also [https://scholar.google.com/citations?user=C6BNYB0AAAAJ&hl=en My Google Scholar].
