@@ -2,9 +2,11 @@
 =Publications
 
 ~~~
-{Under Review}
+{Under Review/In Preparation}
 
-. A. M. Nobili, *Y. Qin*, C. A. Avizzano, D. S. Bassett, and F. Pasqualetti, "Vibrational Stabilization of Complex Network Systems", submitted to ACC 2023.
+. *Y. Qin*, D. S. Bassett,  and F. Pasqualetti, "Flexibility of Information Routing in Oscillatory Network Systems", /In Preparation/. 
+	
+. *Y. Qin*, D. S. Bassett,  and F. Pasqualetti, "Vibrational Controllability of Network Systems", /In Preparation/.
 ~~~
 
 ~~~
@@ -36,7 +38,6 @@
 {Conference Papers}
 
 
-
 . *Y. Qin*, M. Cao, B. D.O. Anderson, "Asynchronous agreement through distributed coordination algorithms associated with periodic matrices", the 20th /*IFAC World Congress*/, Toulouse, France, 2017. \[[https://www.sciencedirect.com/science/article/pii/S2405896317308704  Online]\]
 
 . *Y. Qin*, Y. Kawano, M. Cao, "Partial phase cohesiveness in networks of communitinized Kuramoto oscillators",  /European Control Conferencein cooperation with IFAC (*ECC&IFAC*)/, Limassol, Cyprus, 2018. \[[https://ieeexplore.ieee.org/abstract/document/8550323  Online]\]
@@ -45,13 +46,15 @@
 
 . *Y. Qin*, Y. Kawano, M. Cao, "Stability of remote synchronization in star networks of Kuramoto oscillators", 57th /IEEE Conference on Decision and Control (*CDC*)/, Miami Beach, FL, USA, 2018. \[[https://ieeexplore.ieee.org/abstract/document/8619257 Online]\]
 
-. *Y. Qin*, T. Menara, S. Oymak, S. Ching, and F. Pasqualetti, "Representation Learning for Context-Dependent Decision-Making", the 2022 /IEEE American Control Conference (*ACC*)/, accepted. \[[https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9867204 Online]\] \[[https://arxiv.org/abs/2205.05820 ArXiv]\] 
+. *Y. Qin*, T. Menara, S. Oymak, S. Ching, and F. Pasqualetti, "Representation Learning for Context-Dependent Decision-Making", the 2022 /IEEE American Control Conference (*ACC*)/, Atlanta, GA, USA. \[[https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9867204 Online]\] \[[https://arxiv.org/abs/2205.05820 ArXiv]\] 
 
-. *Y. Qin*, D. S. Bassett, F. Pasqualetti, "Vibrational Control of Cluster Synchronization: Connections with Deep Brain Stimulation", the 61th /IEEE Conference on Decision and Control (*CDC*) /, 2022,  to appear. \[[https://arxiv.org/abs/2204.00678 ArXiv]\]
+. *Y. Qin*, D. S. Bassett, F. Pasqualetti, "Vibrational Control of Cluster Synchronization: Connections with Deep Brain Stimulation", the 61th /IEEE Conference on Decision and Control (*CDC*) /, Cancun, Mexico, 2022. \[[https://arxiv.org/abs/2204.00678 ArXiv]\]
 
-. *Y. Qin*, D. S. Bassett, F. Pasqualetti, "Flexible Information Propagation in Oscillator Networks", the 61th /IEEE Conference on Decision and Control (*CDC*)/, 2022, to appear. 
+. *Y. Qin*, D. S. Bassett, F. Pasqualetti, "Flexible Information Propagation in Oscillator Networks", the 61th /IEEE Conference on Decision and Control (*CDC*)/, Cancun, Mexico, 2022. 
 
 . *Y. Qin*, Y. Li, F. Pasqualetti, M. Fazel, S. Oymak, "Stochastic Contextual Bandits with Long Horizon Rewards", the / AAAI Conference on Artificial Intelligence (*AAAI*), 2023, accepted. *(Acceptant rate: 19.6%)*
+
+. A. M. Nobili, *Y. Qin*, C. A. Avizzano, D. S. Bassett, and F. Pasqualetti, "Vibrational Stabilization of Complex Network Systems", accepted to the 2023 IEEE American Control Conference /*(ACC)*/, San Diego, CA, USA.
 ~~~
 
 See also [https://scholar.google.com/citations?user=C6BNYB0AAAAJ&hl=en My Google Scholar].
